@@ -7,7 +7,7 @@ Akshay Gaikwad
 ================
 
 
-..  figure:: _static/akshay.jpg
+..  figure:: _static/akshay2.png
     :figwidth: 200
     :align: right
 
