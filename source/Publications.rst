@@ -11,7 +11,7 @@ Publications
 - Jiaying Yang, Ingrid Strandberg, Alejandro Vivas-Viana, **Akshay Gaikwad**, Claudia Castillo-Moreno, 
   Anton Frisk Kockum, Muhammad Asad Ullah, Carlos Sanchez Munoz, Axel Martin Eriksson, Simone Gasparinetti.
   "Entanglement of photonic modes from a continuously driven two-level system".
-  `arXiv:2407.07991 (2024) <https://arxiv.org/abs/2401.09941>`_
+  `arXiv:2407.07991 (2024) <https://arxiv.org/abs/2407.07991>`_
 
 - **Akshay Gaikwad**.
   "Novel techniques for efficient quantum state tomography and quantum process tomography and their experimental implementation".
