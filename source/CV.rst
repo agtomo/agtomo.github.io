@@ -1,7 +1,7 @@
 Short CV
 ========
 
-My full CV is available :download:`here <_static/CV.pdf>`
+My full CV is available :download:`here <CV.pdf>`
 
 .. rubric:: Research 
 
