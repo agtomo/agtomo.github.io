@@ -3,7 +3,7 @@ Conferences
 
 .. rubric:: 2024 
 
-- **Attended** CodeRefinery workshop at Chalmers University of Technology, Gothenburg, Swden from August 27-29, 2024
+- **Attended** CodeRefinery workshop at Chalmers University of Technology, Gothenburg, Sweden from August 27-29, 2024
 
 - **Attended** Nordic Workshop on Continuous Variable Quantum Technology, held at KTH Royal Institute of Technology,
   Stockholm,  Sweden from May 27-28, 2024
